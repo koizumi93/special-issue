@@ -52,22 +52,23 @@
 [参照2](https://developer.mozilla.org/ja/docs/Web)
   
 # 映画情報  
+
 ```json
 [  
- &nbsp; {  
-   &emsp; "title":"グレイテスト・ショーマン",  
-   &emsp; "director":"マイケル・グレイシー",  
-   &emsp; "published_year":"2017"  
- &nbsp; },  
- &nbsp; {  
-   &emsp; "title":"エスター",  
-   &emsp; "director":"ジャウム・コレット＝セラ",  
-   &emsp; "published_year":"2009"  
-  &nbsp; },  
-  &nbsp; {  
-   &emsp; "title":"告白",  
-   &emsp; "director":"中島哲也",  
-   &emsp; "published_year":"2010"  
-  &nbsp; }  
+  {
+   "title":"グレイテスト・ショーマン",
+    "director":"マイケル・グレイシー",
+    "published_year":"2017"
+  },
+  {
+    "title":"エスター",
+    "director":"ジャウム・コレット＝セラ",
+    "published_year":"2009"
+  },
+  {
+    "title":"告白",
+    "director":"中島哲也",
+    "published_year":"2010"
+  }
 ]
-````
+```
