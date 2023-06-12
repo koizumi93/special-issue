@@ -69,6 +69,6 @@
    &emsp; "title":"告白",  
    &emsp; "director":"中島哲也",  
    &emsp; "published_year":"2010"  
-  &emsp;}  
+  &emsp; }  
 ]
 ````
