@@ -55,20 +55,20 @@
 ```json
 ````
 [  
- &emsp; {  
+ &nbsp; {  
    &emsp; "title":"グレイテスト・ショーマン",  
    &emsp; "director":"マイケル・グレイシー",  
    &emsp; "published_year":"2017"  
- &emsp; },  
- &emsp; {  
+ &nbsp; },  
+ &nbsp; {  
    &emsp; "title":"エスター",  
    &emsp; "director":"ジャウム・コレット＝セラ",  
    &emsp; "published_year":"2009"  
-  &emsp; },  
-  &emsp; {  
+  &nbsp; },  
+  &nbsp; {  
    &emsp; "title":"告白",  
    &emsp; "director":"中島哲也",  
    &emsp; "published_year":"2010"  
-  &emsp; }  
+  &nbsp; }  
 ]
 ````
