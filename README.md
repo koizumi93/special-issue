@@ -50,3 +50,12 @@
   
 [参照1](https://e-words.jp/w/HTTP.html)  
 [参照2](https://developer.mozilla.org/ja/docs/Web)
+
+```json
+````
+[  
+  {"title":"グレイテスト・ショーマン","director":"マイケル・グレイシー","published_year","2017"},  
+  {"title":"エスター","director":"ジャウム・コレット＝セラ","published_year","2009"},  
+  {"title":"告白","director":"中島哲也","published_year":"2010"}  
+]
+````
