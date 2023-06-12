@@ -54,8 +54,8 @@
 ```json
 ````
 [  
-  {"title":"グレイテスト・ショーマン","director":"マイケル・グレイシー","published_year","2017"},  
-  {"title":"エスター","director":"ジャウム・コレット＝セラ","published_year","2009"},  
+  {"title":"グレイテスト・ショーマン","director":"マイケル・グレイシー","published_year":"2017"},  
+  {"title":"エスター","director":"ジャウム・コレット＝セラ","published_year":"2009"},  
   {"title":"告白","director":"中島哲也","published_year":"2010"}  
 ]
 ````
